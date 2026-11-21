@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-11-21",
+  "plugins": {
+    "lems_tags": {
+      "version": "2.2.0",
+      "rbz_url": "https://github.com/nitiphxng68-cmyk/lems-bim-suite/releases/download/v2.3.0/lems_tags_v2.2.0.rbz",
+      "notes": "In-plugin Online/Local .rbz Updater, Hot-Reload Code & UI, and Small-BIM minimalist topbar drawer."
+    },
+    "lems_management": {
+      "version": "2.3.0",
+      "rbz_url": "https://github.com/nitiphxng68-cmyk/lems-bim-suite/releases/download/v2.3.0/lems_management_v2.3.0.rbz",
+      "notes": "In-plugin Online/Local .rbz Updater, Hot-Reload Code & UI, and Small-BIM minimalist topbar drawer."
+    }
+  }
+}
